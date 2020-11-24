@@ -7,4 +7,4 @@
 Deployed at: _https://restaurant-reviews-sntmnt-anly.herokuapp.com/_
 
 • If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you won't find it here. Click the link mentioned below for the same:<br />
-Link: _https://github.com/nandu26m/Restaurant-Reviews-Sentiment-Analysis-Deployment_
+Link: _https://github.com/akhilanirudhan/Restaurant-Reviews-Sentiment-Analysis-Using-Flask_
